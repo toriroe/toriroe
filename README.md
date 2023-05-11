@@ -7,7 +7,7 @@
 
 - ✉️ How to reach me: **toriroettger@gmail.com**
 
-- ⛰️ Fun fact: **Enjoy indoor rock climbing, learning new languages (currently Spanish), and going for hikes with my dog Wilby**
+- ⛰️ Fun fact: **Some of my hobbies include indoor rock climbing, learning new languages (currently Spanish), and going for hikes with my dog Wilby**
 
 Completed Practicum projects:
 
