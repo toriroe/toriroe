@@ -9,6 +9,12 @@
 
 - ⛰️ Fun fact: **Enjoy indoor rock climbing, learning new languages (currently Spanish), and going for hikes with my dog Wilby**
 
+Completed Practicum projects:
+
+- [Project 2](https://github.com/toriroe/se_project_coffeeshop)
+
+- [Project 1](https://github.com/toriroe/se_project_library)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/@toriroe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="@toriroe" height="30" width="40" /></a>
