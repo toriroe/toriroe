@@ -11,6 +11,8 @@
 
 Completed Practicum projects:
 
+- [Project 3](https://github.com.torieroe/se_project_aroundtheus)
+
 - [Project 2](https://github.com/toriroe/se_project_coffeeshop)
 
 - [Project 1](https://github.com/toriroe/se_project_library)
