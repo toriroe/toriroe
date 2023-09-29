@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tori Roettger</h1>
 <h3 align="center">A student at Tripleten's software engineering bootcamp!</h3>
 
-- ⚡️ I’m currently working on [Practicum's project 12](https://github.com/toriroe/se_project_react)
+- ⚡️ I’m currently working on [Practicum's project 12](https://github.com/toriroe/se_project_express)
 
 - 🌱 I’m currently learning **Node.js, Express.js, MongoDB**
 
@@ -21,5 +21,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=toriroe&show_icons=true&locale=en" alt="toriroe" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=toriroe&" alt="toriroe" /></p>
+
 
