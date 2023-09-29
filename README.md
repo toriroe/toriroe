@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋😊, I'm Tori Roettger</h1>
 <h3 align="center">A student at Practicum's software engineering bootcamp!</h3>
 
-- ⚡ I’m currently working on [Practicum's project 11](https://github.com/toriroe/se_project_react)
+- ⚡ I’m currently working on [Practicum's project 12](https://github.com/toriroe/se_project_react)
 
-- 🌱 I’m currently learning **Vanilla Javascript** and **React**
+- 🌱 I’m currently learning **Node.js**, **Express.js**, and MongoDB
 
 - ✉️ How to reach me: **toriroettger@gmail.com**
 
