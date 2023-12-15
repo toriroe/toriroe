@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tori Roettger</h1>
 <h3 align="center">A student at Tripleten's software engineering bootcamp!</h3>
 
-- ⚡️ I’m currently working on [Practicum's project 12](https://github.com/toriroe/se_project_express)
+- ⚡️ I’m currently working on [Practicum's final project](https://github.com/toriroe/newsexplorer_frontend)
 
 - 🌱 I’m currently learning **Node.js, Express.js, MongoDB**
 
